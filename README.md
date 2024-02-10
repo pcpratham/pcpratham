@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pcpratham" alt="pcpratham" /></a> </p>
 
-- 🔭 I’m currently working on **Blog-app**
+- 🔭 I’m currently working on **Payment-making web-app clone**
 
 - 👯 I’m looking to collaborate on **MERN stack**
 
